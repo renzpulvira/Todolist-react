@@ -1,6 +1,6 @@
 A Simple Todolist React App using `create-react-app`
-![Simple list image](https://i.imgur.com/Ti3QGmI.png)
 
+![Simple list image](https://i.imgur.com/Ti3QGmI.png)
 __To start__
 Run `npm install` to install dependencies.
 ```bash
