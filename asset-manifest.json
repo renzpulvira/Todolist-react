@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todolist-react/static/css/main.63b03d8d.chunk.css",
+    "main.js": "/Todolist-react/static/js/main.e8a64899.chunk.js",
+    "main.js.map": "/Todolist-react/static/js/main.e8a64899.chunk.js.map",
+    "runtime~main.js": "/Todolist-react/static/js/runtime~main.f27f5f04.js",
+    "runtime~main.js.map": "/Todolist-react/static/js/runtime~main.f27f5f04.js.map",
+    "static/js/2.c0c080c6.chunk.js": "/Todolist-react/static/js/2.c0c080c6.chunk.js",
+    "static/js/2.c0c080c6.chunk.js.map": "/Todolist-react/static/js/2.c0c080c6.chunk.js.map",
+    "index.html": "/Todolist-react/index.html",
+    "precache-manifest.f8526689f4b8839ed31a3c2928821964.js": "/Todolist-react/precache-manifest.f8526689f4b8839ed31a3c2928821964.js",
+    "service-worker.js": "/Todolist-react/service-worker.js",
+    "static/css/main.63b03d8d.chunk.css.map": "/Todolist-react/static/css/main.63b03d8d.chunk.css.map"
+  }
+}
